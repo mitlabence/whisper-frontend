@@ -1,5 +1,5 @@
 # whisper-frontend
-a Flask+JS frontend for communicating with a [whisper-docker][https://github.com/mitlabence/whisper-docker] container
+a Flask+JS frontend for communicating with a [whisper-docker](https://github.com/mitlabence/whisper-docker) container
 
 # How-to
 1. Make sure to have ffmpeg (tested on Windows 11 with ffmpeg version 2025-05-05-git-f4e72eb5a3-full_build-www.gyan.dev). Run `ffmpeg -version` to check the version.
